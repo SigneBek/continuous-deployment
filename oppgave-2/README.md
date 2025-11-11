@@ -85,7 +85,7 @@ Når du pusher endringene i en workshop fil til et remote repository på Github,
 
 :book: Loggen viser hvor mange steg som ble kjørt. Du kan utvide hvert enkelt steg for å se videre detaljer.
 
-### 2.4 Workflow for building our app
+### 2.4 Flyt for å bygge applikasjon
 
 :book: Ett av de viktigste steget i en god CI-pipeline er _build_-steget, der vi kjører bygg/kompilering av koden for å sjekke at vi ikke har pushet kode som har ødelagt bygget ved hver endring.
 
